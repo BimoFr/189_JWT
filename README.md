@@ -2,7 +2,7 @@ POST Register:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f066614-fe5a-4577-91eb-4392f1bd30cb" />
 
 POST Login:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e2a40b5-3d9e-41bc-ab21-8d20a0476ece" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6cc6c709-c4cb-4395-8861-5c9d22027afe" />
 
 POST Create komik:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb93c8f0-c2b5-495f-909f-4e2e3918aa92" />
